@@ -14,6 +14,10 @@ features are used to pass student responses to the LLM.
 Under `jobe/ChatRunner` there is a python package to provide the
 API to call an LLM from CodeRunner.
 
+## Authors
+
++ Jonas Julius Harang, idea and original prototype
++ Hans Georg Schaathun, refactoring and documentation for reuse and publication
 
 
 ## Usage in Moodle
