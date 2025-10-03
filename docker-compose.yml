@@ -13,8 +13,8 @@ services:
     image:  moodlehq/moodle-php-apache:8.3
 
     ports:
-      - '8080:80'
-      - '8443:443'
+      - '9080:80'
+      - '9443:443'
     environment:
       - MOODLE_DATABASE_HOST=mariadb
       - MOODLE_DATABASE_PORT_NUMBER=3306
